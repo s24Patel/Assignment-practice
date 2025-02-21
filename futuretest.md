@@ -1,4 +1,4 @@
-**Assignment #2: Understanding the Requirements**
+# **Assignment #2: Understanding the Requirements**
 
 ## **Current Two Requirements**
 
@@ -7,7 +7,7 @@
 
 #### **Assumptions & Validation:**
 - **Assumption:** Developers want an easy way to organize training data.
-  - **Validation:** Conduct interviews with developers to confirm their data organization preferences.
+- **Validation:** Conduct interviews with developers to confirm their data organization preferences.
 
 #### **Preliminary Tasks:**
 - Design a system that allows separate storage of questions and answers.
