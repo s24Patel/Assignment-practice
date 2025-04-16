@@ -222,12 +222,12 @@ The alert board enhances community engagement by providing a central hub for saf
 
 | Priority | Feature                        | Related User Stories                                |
 |----------|--------------------------------|-----------------------------------------------------|
-| P0       | Real-time reporting            | Resident quick report + media sharing               |
-| P0       | Interactive incident map       | Resident visualization + law enforcement tracking   |
-| P1       | Historical trend dashboard     | Watch member filters + admin tracking               |
-| P1       | Predictive alert system        | Resident and law enforcement proactive alerts       |
-| P2       | Anonymous reporting            | Residents who prefer privacy                        |
-| P2       | Community discussion forum     | Community engagement and local collaboration        |
+| P0 (High Priority)      | Real-time reporting            | Resident quick report + media sharing               |
+| P0 (High Priority)      | Interactive incident map       | Resident visualization + law enforcement tracking   |
+| P1 (Medium Priority)      | Historical trend dashboard     | Watch member filters + admin tracking               |
+| P1 (Medium Priority)      | Predictive alert system        | Resident and law enforcement proactive alerts       |
+| P2 (Low Priority)      | Anonymous reporting            | Residents who prefer privacy                        |
+| P2 (Low Priority)      | Community discussion forum     | Community engagement and local collaboration        |
 
 ---
 
