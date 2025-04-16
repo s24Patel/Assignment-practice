@@ -30,9 +30,9 @@ Current crime reporting in the Kitchener/Waterloo Region is disjointed, causing 
 
 ###  Preliminary Tasks
 
-- [] Design a mobile-friendly reporting form with text, time, location, and media fields.  
-- [] Enable GPS tagging on submissions.  
-- [] Conduct usability testing with 5–10 users.
+- [ ] Design a mobile-friendly reporting form with text, time, location, and media fields.  
+- [ ] Enable GPS tagging on submissions.  
+- [ ] Conduct usability testing with 5–10 users.
 
 ###  Metrics for Success
 
@@ -60,8 +60,8 @@ Residents can report incidents faster, improving transparency and timely communi
 
 ###  Preliminary Tasks
 
-- [] Integrate maps via Google Maps or OpenStreetMap.  
-- [] Implement filtering and toggle between real-time/historical views.
+- [ ] Integrate maps via Google Maps or OpenStreetMap.  
+- [ ] Implement filtering and toggle between real-time/historical views.
 
 ###  Metrics for Success
 
@@ -89,8 +89,8 @@ Visual incident tracking enhances awareness of crime patterns and safety risks.
 
 ###  Preliminary Tasks
 
-- [] Develop dashboard with charts (heatmap, line graph, pie chart).  
-- [] Add filters, export tools, and access control.
+- [ ] Develop dashboard with charts (heatmap, line graph, pie chart).  
+- [ ] Add filters, export tools, and access control.
 
 ###  Metrics for Success
 
@@ -118,8 +118,8 @@ Historical insights support proactive community planning and resource allocation
 
 ###  Preliminary Tasks
 
-- [] Develop ML models using incident history.  
-- [] Enable alert scheduling and preferences.
+- [ ] Develop ML models using incident history.  
+- [ ] Enable alert scheduling and preferences.
 
 ###  Metrics for Success
 
@@ -147,8 +147,8 @@ Forecasting enables preventive safety measures and faster responses.
 
 ###  Preliminary Tasks
 
-- [] Create a messaging system per report.  
-- [] Enable notifications and resolution status tracking.
+- [ ] Create a messaging system per report.  
+- [ ] Enable notifications and resolution status tracking.
 
 ###  Metrics for Success
 
@@ -176,8 +176,8 @@ Trust and transparency are improved through direct communication.
 
 ###  Preliminary Tasks
 
-- [] Create alert board with post, comment, and reaction features.  
-- [] Add moderation tools and categorized posting options.
+- [ ] Create alert board with post, comment, and reaction features.  
+- [ ] Add moderation tools and categorized posting options.
 
 ###  Metrics for Success
 
