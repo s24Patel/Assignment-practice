@@ -18,7 +18,7 @@ Current crime reporting in the Kitchener/Waterloo Region is disjointed, causing 
 
 ##  Requirement 1: Enable Real-Time Crime Reporting with Multimedia and Location Support
 
-### 🔍 Assumptions with Validation
+###  Assumptions with Validation
 
 - **Assumption 1**  
   Residents are less likely to report incidents due to complicated or inefficient reporting channels.  
@@ -48,7 +48,7 @@ Residents can report incidents faster, improving transparency and timely communi
 
 ##  Requirement 2: Display Real-Time Incidents on an Interactive Map
 
-### 🔍 Assumptions with Validation
+###  Assumptions with Validation
 
 - **Assumption 1**  
   Users want to stay informed about ongoing incidents.  
